@@ -4,11 +4,13 @@ layout: default
 nav_order: 1
 ---
 
-# My shopping list
+# Home
+
+## My shopping list
 
 - Apples
-- ~Lemons~
+- ~~Lemons~~
 - Garlic
-- ~Bread~
+- ~~Bread~~
 - Eggs
 - Pasta
