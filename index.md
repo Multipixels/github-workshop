@@ -12,5 +12,5 @@ nav_order: 1
 - ~~Lemons~~
 - Garlic
 - ~~Bread~~
-- Eggs
-- Pasta
+- ~~Eggs~~
+- ~~Pasta~~
